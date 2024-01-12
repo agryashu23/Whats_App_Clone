@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "671945887318",
+    "project_id": "riverpod-learn-7b8ae",
+    "storage_bucket": "riverpod-learn-7b8ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671945887318:android:dc8646a38e6d36d8fc75f7",
+        "android_client_info": {
+          "package_name": "com.example.whats_app_clone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcsGZo4hrwhkkZsJQ8sa6GkRO_hictay8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
